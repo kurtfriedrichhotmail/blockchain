@@ -34,3 +34,8 @@ li {
 {
   background-color:rgb(106, 221, 163);
 }
+
+textarea {
+  width: 1000px;
+  height: 500px;
+}
